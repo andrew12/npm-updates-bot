@@ -1,0 +1,13 @@
+{
+  "name": "npm-updates-bot",
+  "description": "irc bot to post changes to the npm registry",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/andrew12/npm-updates-bot.git"
+  },
+  "dependencies": {
+    "irc": "~0.3.6",
+    "npm-updates": "~0.1.2"
+  },
+  "license": "MIT"
+}
