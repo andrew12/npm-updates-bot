@@ -3,7 +3,7 @@
 This is a simple IRC bot that will post changes to the [npm][] [registry][].
 
 [npm]: https://npmjs.org
-[repository]: https://registry.npmjs.org
+[registry]: https://registry.npmjs.org
 
 # Usage
 
